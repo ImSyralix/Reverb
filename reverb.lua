@@ -9,28 +9,28 @@ m_deagle.recoilMult = 0
 m_deagle.ClipSize = math.huge
 m_deagle.FireRate = 0.01
 m_deagle.ReloadTime = 0.1
-m_deagle.WalkSpeed = 25
+m_deagle.WalkSpeed = 18
 
 local m_tec9 = require(game:GetService("ReplicatedStorage").GunModules:FindFirstChild("Tec-9"))
 m_tec9.recoilMult = 0
 m_tec9.ClipSize = math.huge
 m_tec9.FireRate = 0.01
 m_tec9.ReloadTime = 0.1
-m_tec9.WalkSpeed = 25
+m_tec9.WalkSpeed = 18
 
 local m_glock = require(game:GetService("ReplicatedStorage").GunModules.Glock)
 m_glock.recoilMult = 0
 m_glock.ClipSize = math.huge
 m_glock.FireRate = 0.01
 m_glock.ReloadTime = 0.1
-m_glock.WalkSpeed = 25
+m_glock.WalkSpeed = 18
 
 local m_1911 = require(game:GetService("ReplicatedStorage").GunModules:FindFirstChild("1911"))
 m_1911.recoilMult = 0
 m_1911.ClipSize = math.huge
 m_1911.FireRate = 0.01
 m_1911.ReloadTime = 0.1
-m_1911.WalkSpeed = 25
+m_1911.WalkSpeed = 18
 
 --EPIC CROSSHAIR!
 
